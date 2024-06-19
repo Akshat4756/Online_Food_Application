@@ -6,8 +6,10 @@
 
 <h2>Demo of Checkout functionality</h2>
 <video src="https://github.com/i-m-akshat/Online_Food_Application/assets/100028672/520a46e8-c2c2-4125-9157-e6747e414102" />
+  
 <h2>Demo of Checkout functionality</h2>
 <video src="https://github.com/i-m-akshat/Online_Food_Application/assets/100028672/acec677a-4748-4c1e-ae8b-4a3fb455d405"/>
+  
 <h2>Demo of Admin Dashboard</h2>
 <video src="https://github.com/i-m-akshat/Online_Food_Application/assets/100028672/2042592d-2fd4-437c-b4fd-0611c8a35733"/>
 
